@@ -13,6 +13,6 @@ I've worked for the following compagny:
  - ALTEN consulting group
  - Dassault Aircraft
  - Airbus Defense and Space, Cybersecurity department
- - Objectiva Software  / Seismic (current job)
+ - Seismic (current job)
  
  Feel free to contact me through personal message !
